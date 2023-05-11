@@ -5,9 +5,6 @@
 <a href="https://github.com/specdev14">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naris&theme=light&count_private=true&layout=compact" width="205" alt="Naris's most used languages" />
 </a>
-<a href="https://github.com/specdev14">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naris&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Naris's github stats"/>
-</a>
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
